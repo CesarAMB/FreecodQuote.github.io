@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FreecodQuote.github.io/static/css/main.d3c3bdb8.css",
+    "main.js": "/FreecodQuote.github.io/static/js/main.d7330c7b.js",
+    "static/js/453.6e2a184e.chunk.js": "/FreecodQuote.github.io/static/js/453.6e2a184e.chunk.js",
+    "index.html": "/FreecodQuote.github.io/index.html",
+    "main.d3c3bdb8.css.map": "/FreecodQuote.github.io/static/css/main.d3c3bdb8.css.map",
+    "main.d7330c7b.js.map": "/FreecodQuote.github.io/static/js/main.d7330c7b.js.map",
+    "453.6e2a184e.chunk.js.map": "/FreecodQuote.github.io/static/js/453.6e2a184e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3c3bdb8.css",
+    "static/js/main.d7330c7b.js"
+  ]
+}
